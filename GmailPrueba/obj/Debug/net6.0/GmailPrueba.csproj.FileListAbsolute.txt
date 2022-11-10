@@ -1,0 +1,15 @@
+E:\Documentos\Desktop\PROYECTO WEB CONFERENCIAS\Pruebas\GmailPrueba\GmailPrueba\bin\Debug\net6.0\GmailPrueba.exe
+E:\Documentos\Desktop\PROYECTO WEB CONFERENCIAS\Pruebas\GmailPrueba\GmailPrueba\bin\Debug\net6.0\GmailPrueba.deps.json
+E:\Documentos\Desktop\PROYECTO WEB CONFERENCIAS\Pruebas\GmailPrueba\GmailPrueba\bin\Debug\net6.0\GmailPrueba.runtimeconfig.json
+E:\Documentos\Desktop\PROYECTO WEB CONFERENCIAS\Pruebas\GmailPrueba\GmailPrueba\bin\Debug\net6.0\GmailPrueba.dll
+E:\Documentos\Desktop\PROYECTO WEB CONFERENCIAS\Pruebas\GmailPrueba\GmailPrueba\bin\Debug\net6.0\GmailPrueba.pdb
+E:\Documentos\Desktop\PROYECTO WEB CONFERENCIAS\Pruebas\GmailPrueba\GmailPrueba\obj\Debug\net6.0\GmailPrueba.csproj.AssemblyReference.cache
+E:\Documentos\Desktop\PROYECTO WEB CONFERENCIAS\Pruebas\GmailPrueba\GmailPrueba\obj\Debug\net6.0\GmailPrueba.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Desktop\PROYECTO WEB CONFERENCIAS\Pruebas\GmailPrueba\GmailPrueba\obj\Debug\net6.0\GmailPrueba.AssemblyInfoInputs.cache
+E:\Documentos\Desktop\PROYECTO WEB CONFERENCIAS\Pruebas\GmailPrueba\GmailPrueba\obj\Debug\net6.0\GmailPrueba.AssemblyInfo.cs
+E:\Documentos\Desktop\PROYECTO WEB CONFERENCIAS\Pruebas\GmailPrueba\GmailPrueba\obj\Debug\net6.0\GmailPrueba.csproj.CoreCompileInputs.cache
+E:\Documentos\Desktop\PROYECTO WEB CONFERENCIAS\Pruebas\GmailPrueba\GmailPrueba\obj\Debug\net6.0\GmailPrueba.dll
+E:\Documentos\Desktop\PROYECTO WEB CONFERENCIAS\Pruebas\GmailPrueba\GmailPrueba\obj\Debug\net6.0\refint\GmailPrueba.dll
+E:\Documentos\Desktop\PROYECTO WEB CONFERENCIAS\Pruebas\GmailPrueba\GmailPrueba\obj\Debug\net6.0\GmailPrueba.pdb
+E:\Documentos\Desktop\PROYECTO WEB CONFERENCIAS\Pruebas\GmailPrueba\GmailPrueba\obj\Debug\net6.0\GmailPrueba.genruntimeconfig.cache
+E:\Documentos\Desktop\PROYECTO WEB CONFERENCIAS\Pruebas\GmailPrueba\GmailPrueba\obj\Debug\net6.0\ref\GmailPrueba.dll
